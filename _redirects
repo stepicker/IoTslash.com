@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://iot-slash.netlify.com/* https://iotslash.com/:splat 301!
