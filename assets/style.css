@@ -30,7 +30,11 @@ p {
 }
 
 #iot {
-    width: 100%;
+    width: 65%;
+}
+
+.product-link {
+    color: white;
 }
 
 @media screen and (max-width: 600px) {
